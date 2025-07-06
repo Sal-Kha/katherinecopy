@@ -1,2 +1,2 @@
-# ai_summer_program
+# AutoCure.AI
 Dallas AI Summer Program Project.
